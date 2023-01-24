@@ -1,0 +1,1 @@
+Program w języku python z wykorzystaniem biblioteki deap, wykorzystujący programowanie genetyczne do przewidywania wyników meczów piłkarskich 
